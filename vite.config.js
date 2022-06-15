@@ -9,7 +9,7 @@ export default defineConfig({
 	server:{
 		strictPort: true,
 		port:8100,
-		host:'3.137.151.244',
+		//host:'3.137.151.244',
 		 hmr: {
 			   port: 8100,
 			   protocol: 'wss',

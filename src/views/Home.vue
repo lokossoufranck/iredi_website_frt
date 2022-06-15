@@ -63,7 +63,7 @@
             />
             <img
               class="relative"
-              src="zeus-assets/images/z-picture.png"
+              src="zeus-assets/images/iredi_ban.jpg"
               alt=""
             />
             <img
@@ -187,7 +187,7 @@
                 <div class="w-full md:w-1/3 px-5 mb-4 lg:mb-0">
                   <img
                     class="w-full md:w-40 h-52 object-cover rounded-xl"
-                    src="https://images.unsplash.com/photo-1544717305-f9c88f2897bc?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&amp;ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=1050&amp;q=80"
+                    src="zeus-assets/images/profile/A.S_DURAND.png"
                     alt=""
                   />
                 </div>
@@ -197,9 +197,7 @@
                   </h3>
                   <p class="mb-6 text-gray-500">CEO &amp; Founder</p>
                   <p class="text-gray-500">
-                    Amet minim mollit non deserunt ullamco est sit aliqua dolor
-                    do amet sint. Velit officia consequat duis enim velit
-                    mollit. Exercitation veniam consequat sunt nostrud amet.
+                    
                   </p>
                 </div>
               </div>
@@ -219,11 +217,9 @@
                   <h3 class="text-2xl font-semibold font-heading mb-1">
                     Fidèle SONON
                   </h3>
-                  <p class="mb-6 text-gray-500">CEO &amp; Founder</p>
+                  <p class="mb-6 text-gray-500"> Responsable Data</p>
                   <p class="text-gray-500">
-                    Amet minim mollit non deserunt ullamco est sit aliqua dolor
-                    do amet sint. Velit officia consequat duis enim velit
-                    mollit. Exercitation veniam consequat sunt nostrud amet.
+                  
                   </p>
                 </div>
               </div>
@@ -247,8 +243,7 @@
                     Responsable &amp; Projet, Développement et BI
                   </p>
                   <p class="text-gray-500">
-                    Master BI, 5 ans d'expériances, Franck coordornne les
-                    projets de de conception et de développement d'applications.
+                    
                   </p>
                 </div>
               </div>
@@ -260,7 +255,7 @@
                 <div class="w-full md:w-1/3 px-5 mb-4 lg:mb-0">
                   <img
                     class="w-full md:w-40 h-52 object-cover rounded-xl"
-                    src="https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&amp;ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=1050&amp;q=80"
+                    src="zeus-assets/images/profile/LOKOSSOU_Isabelle.png"
                     alt=""
                   />
                 </div>
@@ -270,9 +265,7 @@
                   </h3>
                   <p class="mb-6 text-gray-500">CEO &amp; Founder</p>
                   <p class="text-gray-500">
-                    Amet minim mollit non deserunt ullamco est sit aliqua dolor
-                    do amet sint. Velit officia consequat duis enim velit
-                    mollit. Exercitation veniam consequat sunt nostrud amet.
+                    Responsable Marketing et Communication
                   </p>
                 </div>
               </div>
@@ -732,7 +725,7 @@
       </div>
     </section>
 
-    <section id="Consumers" class="py-2">
+  <section id="Consumers" class="py-2">
       <div class="container px-4 mx-auto">
         <div class="max-w-3xl mx-auto mb-12 lg:mb-6 text-center">
           <span class="text-lg text-blue-400 font-semibold"
@@ -752,8 +745,8 @@
           <div class="w-full md:w-1/3 lg:w-1/6 p-4">
             <div class="bg-gray-50 rounded-xl py-12">
               <img
-                class="h-6 mx-auto"
-                src="zeus-assets/logo/dropbox-gray.svg"
+                class="h-30 mx-auto"
+                src="zeus-assets/logo/leauàlabouche.jpeg"
                 alt=""
               />
             </div>
@@ -761,8 +754,8 @@
           <div class="w-full md:w-1/3 lg:w-1/6 p-4">
             <div class="bg-gray-50 rounded-xl py-12">
               <img
-                class="h-6 mx-auto"
-                src="zeus-assets/logo/spotify-gray.svg"
+                class="h-30 mx-auto"
+                src="zeus-assets/logo/sic.jpeg"
                 alt=""
               />
             </div>
@@ -770,8 +763,8 @@
           <div class="w-full md:w-1/3 lg:w-1/6 p-4">
             <div class="bg-gray-50 rounded-xl py-12">
               <img
-                class="h-6 mx-auto"
-                src="zeus-assets/logo/amazon-gray.svg"
+                class="h-21 mx-auto"
+                src="zeus-assets/logo/iledepaix.jpg"
                 alt=""
               />
             </div>
@@ -779,24 +772,22 @@
           <div class="w-full md:w-1/3 lg:w-1/6 p-4">
             <div class="bg-gray-50 rounded-xl py-12">
               <img
-                class="h-6 mx-auto"
-                src="zeus-assets/logo/netflix-gray.svg"
+                class="h-25 mx-auto"
+                src="zeus-assets/logo/donbosco.jpg"
                 alt=""
               />
             </div>
           </div>
           <div class="w-full md:w-1/3 lg:w-1/6 p-4">
             <div class="bg-gray-50 rounded-xl py-12">
-              <img
-                class="h-6 mx-auto"
-                src="zeus-assets/logo/stripe-gray.svg"
-                alt=""
-              />
+              AGENCE D'APPROVISIONNEMENT EN EAU POTABLE
             </div>
           </div>
         </div>
       </div>
     </section>
+
+ 
 
  
 
@@ -961,13 +952,27 @@
         </div>
       </div>
     </section>
-   <section class="pt-0">
+   <!--<section class="pt-0">
         <div class="relative">
         <img
           class="relative w-full h-112 object-cover"
           src="zeus-assets/images/map.png"
           alt=""
         />
+      </div>
+    </section>-->
+       <section class="pt-0">
+        <div class="relative">
+          <iframe 
+          class="relative w-full h-112 object-cover"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63441.6026350118!2d2.3022700726611234!3d6.381070932745182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x102357bc0c880e4d%3A0xbade1bae61ec4136!2sInstitut%20de%20Recherche%20en%20%C3%89conomie%20et%20en%20D%C3%A9veloppement%20et%20Informatique%20(IREDI)!5e0!3m2!1sfr!2sbj!4v1655116787678!5m2!1sfr!2sbj" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+          alt=""
+          </iframe>
+        <!-- <img
+          class="relative w-full h-112 object-cover"
+          src="zeus-assets/images/map.png"
+          alt=""
+        /> -->
       </div>
     </section>
     
